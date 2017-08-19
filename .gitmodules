@@ -1,0 +1,6 @@
+[submodule "incognitech-alexa"]
+	path = incognitech-alexa
+	url = git@github.com:desaiuditd/incognitech-alexa.git
+[submodule "incognitech-watson-chat"]
+	path = incognitech-watson-chat
+	url = git@github.com:desaiuditd/incognitech-watson-chat.git
